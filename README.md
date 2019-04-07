@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## TWitterVigilante
 
-Now This bot tracks all the hateful comments against India and its establishment.
+                                  This bot tracks all the hateful comments against India and its establishment.
 
 
 ### Markdown
